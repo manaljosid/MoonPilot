@@ -107,10 +107,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SZSEHHDY
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for MoonPilot_Logic\Design Rule Check - MoonPilot.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0

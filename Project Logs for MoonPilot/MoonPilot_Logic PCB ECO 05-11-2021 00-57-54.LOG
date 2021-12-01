@@ -1,0 +1,646 @@
+Added Component: Designator=C200(0603_CAP)
+Added Component: Designator=C201(0603_CAP)
+Added Component: Designator=C202(0603_CAP)
+Added Component: Designator=C203(0603_CAP)
+Added Component: Designator=C204(0603_CAP)
+Added Component: Designator=C205(0603_CAP)
+Added Component: Designator=C206(0603_CAP)
+Added Component: Designator=C207(0603_CAP)
+Added Component: Designator=C208(0603_CAP)
+Added Component: Designator=C209(0603_CAP)
+Added Component: Designator=C210(0603_CAP)
+Added Component: Designator=C211(0603_CAP)
+Added Component: Designator=C212(0603_CAP)
+Added Component: Designator=C213(0603_CAP)
+Added Component: Designator=C300(0603_CAP)
+Added Component: Designator=C301(0603_CAP)
+Added Component: Designator=C400(0603_CAP)
+Added Component: Designator=C401(0603_CAP)
+Added Component: Designator=C402(0603_CAP)
+Added Component: Designator=C403(0603_CAP)
+Added Component: Designator=C404(0603_CAP)
+Added Component: Designator=C505(0603_CAP)
+Added Component: Designator=C506(0603_CAP)
+Added Component: Designator=C800(0603_CAP)
+Added Component: Designator=C900(0603_CAP)
+Added Component: Designator=D500(SOD-123)
+Added Component: Designator=D501(SOD-123)
+Added Component: Designator=D1000(2659)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "2183-2659-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/pololu-corporation/2659/2183-2659-ND/10451102?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Adafruit Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2659"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Adafruit Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2659/Adafruit%20Industries%20LLC/view-part/548522/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FB300(0603_FERRITE)
+Added Component: Designator=J200(JAE_DX07S016JA1R1500)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4551013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JAE Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DX07S016JA1R1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DX07S016JA1R1500/JAE%20Electronics/view-part/4551013/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J300(U.FL-R-SMT-1(10))
+Added Component: Designator=J609(JST_BM04B-GHS-TBT(LF)(SN)(N))
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "455-1580-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/jst-sales-america-inc/BM04B-GHS-TBT_LF__SN__N_/455-1580-1-ND/807848?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BM04B-GHS-TBT_LF__SN__N_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BM04B-GHS-TBT%28LF%29%28SN%29%28N%29/JST%20Sales%20America%20Inc./view-part/841999/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J610(JST_BM04B-GHS-TBT(LF)(SN)(N))
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "455-1580-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/jst-sales-america-inc/BM04B-GHS-TBT_LF__SN__N_/455-1580-1-ND/807848?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BM04B-GHS-TBT_LF__SN__N_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BM04B-GHS-TBT%28LF%29%28SN%29%28N%29/JST%20Sales%20America%20Inc./view-part/841999/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J700_HI_CURR_1(JST_BM02B-GHS-TBT(LF)(SN)(N))
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "455-1580-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/jst-sales-america-inc/BM04B-GHS-TBT_LF__SN__N_/455-1580-1-ND/807848?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BM04B-GHS-TBT_LF__SN__N_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BM04B-GHS-TBT%28LF%29%28SN%29%28N%29/JST%20Sales%20America%20Inc./view-part/841999/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J700_HI_CURR_2(JST_BM02B-GHS-TBT(LF)(SN)(N))
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "455-1580-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/jst-sales-america-inc/BM04B-GHS-TBT_LF__SN__N_/455-1580-1-ND/807848?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BM04B-GHS-TBT_LF__SN__N_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BM04B-GHS-TBT%28LF%29%28SN%29%28N%29/JST%20Sales%20America%20Inc./view-part/841999/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J800(MEM2075-00-140-01-A_revA)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "GCT_MEM2075-00-140-01-A_revA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartRev"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STANDARD"; Value = "Manufacturer Recommendations"; VariantName = "[No Variations]"
+Added Component: Designator=LS1000(CPT-9019S-SMT-TR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "102-3761-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=M100(M3_SCREW)
+Added Component: Designator=M101(M3_SCREW)
+Added Component: Designator=M102(M3_SCREW)
+Added Component: Designator=M103(M3_SCREW)
+Added Component: Designator=R100(0603_RES)
+Added Component: Designator=R101(0603_RES)
+Added Component: Designator=R200(0603_RES)
+Added Component: Designator=R201(0603_RES)
+Added Component: Designator=R202(0603_RES)
+Added Component: Designator=R203(0603_RES)
+Added Component: Designator=R204(0805_RES)
+Added Component: Designator=R205(0603_RES)
+Added Component: Designator=R206(0603_RES)
+Added Component: Designator=R300(0603_RES)
+Added Component: Designator=R800(0603_RES)
+Added Component: Designator=R900(0603_RES)
+Added Component: Designator=R1000(0603_RES)
+Added Component: Designator=R1001(0603_RES)
+Added Component: Designator=R1002(0603_RES)
+Added Component: Designator=R1003(0603_RES)
+Added Component: Designator=R1004(0603_RES)
+Added Component: Designator=R1005(0603_RES)
+Added Component: Designator=SW200(TL1015)
+Added Component: Designator=SW201(TL1015)
+Added Component: Designator=TP200(Testpoint)
+Added Component: Designator=TP201(Testpoint)
+Added Component: Designator=TP300(Testpoint)
+Added Component: Designator=TP301(Testpoint)
+Added Component: Designator=TP302(Testpoint2)
+Added Component: Designator=TP500(Testpoint2)
+Added Component: Designator=TP501(Testpoint2)
+Added Component: Designator=TP502(Testpoint2)
+Added Component: Designator=U200(SOIC_208MIL_WIN)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "W25Q128JVSIQ TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Winbond_2020-02-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Winbond"; VariantName = "[No Variations]"
+Added Component: Designator=U201(RP2040)
+Added Component: Designator=U300(ZOE-M8Q)
+Add component (AddParameter): Name = "Manufacturer"; Value = "u-blox"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "u-blox ZOE-M8Q GNSS module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ZOE-M8Q"; VariantName = "[No Variations]"
+Added Component: Designator=U401(MMC5983MA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1267-MMC5983MACT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U500(SOT-25_TOR)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XC6222B331MR-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Torex_2016-07-11_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Torex Semiconductor"; VariantName = "[No Variations]"
+Added Component: Designator=U502(TSSOP-16)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/ina260.pdf?ts=1625223015380&ref_url=https%253A%252F%252Fwww.google.com%252F"; VariantName = "[No Variations]"
+Added Component: Designator=U900(SOIC_208MIL_WIN)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "W25Q128JVSIQ TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Winbond_2020-02-06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Winbond"; VariantName = "[No Variations]"
+Added Component: Designator=X200(XOSC_3.2mmx2.5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/ecs-inc/ECS-120-20-33-CKM-TR/2781815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey"; Value = "XC1810CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C200-1
+Added Pin To Net: NetName=+3V3 Pin=C201-1
+Added Pin To Net: NetName=+3V3 Pin=C202-1
+Added Pin To Net: NetName=+3V3 Pin=C203-1
+Added Pin To Net: NetName=+3V3 Pin=C204-1
+Added Pin To Net: NetName=+3V3 Pin=C205-1
+Added Pin To Net: NetName=+3V3 Pin=C206-1
+Added Pin To Net: NetName=+3V3 Pin=C207-1
+Added Pin To Net: NetName=+3V3 Pin=C210-1
+Added Pin To Net: NetName=+3V3 Pin=C301-1
+Added Pin To Net: NetName=+3V3 Pin=C400-1
+Added Pin To Net: NetName=+3V3 Pin=C401-1
+Added Pin To Net: NetName=+3V3 Pin=C402-1
+Added Pin To Net: NetName=+3V3 Pin=C403-1
+Added Pin To Net: NetName=+3V3 Pin=C506-1
+Added Pin To Net: NetName=+3V3 Pin=C800-1
+Added Pin To Net: NetName=+3V3 Pin=C900-1
+Added Pin To Net: NetName=+3V3 Pin=J800-P4
+Added Pin To Net: NetName=+3V3 Pin=R100-1
+Added Pin To Net: NetName=+3V3 Pin=R101-1
+Added Pin To Net: NetName=+3V3 Pin=R204-1
+Added Pin To Net: NetName=+3V3 Pin=R300-1
+Added Pin To Net: NetName=+3V3 Pin=R800-1
+Added Pin To Net: NetName=+3V3 Pin=R900-2
+Added Pin To Net: NetName=+3V3 Pin=R1000-2
+Added Pin To Net: NetName=+3V3 Pin=TP502-1
+Added Pin To Net: NetName=+3V3 Pin=U200-8
+Added Pin To Net: NetName=+3V3 Pin=U201-1
+Added Pin To Net: NetName=+3V3 Pin=U201-10
+Added Pin To Net: NetName=+3V3 Pin=U201-22
+Added Pin To Net: NetName=+3V3 Pin=U201-33
+Added Pin To Net: NetName=+3V3 Pin=U201-42
+Added Pin To Net: NetName=+3V3 Pin=U201-43
+Added Pin To Net: NetName=+3V3 Pin=U201-44
+Added Pin To Net: NetName=+3V3 Pin=U201-48
+Added Pin To Net: NetName=+3V3 Pin=U201-49
+Added Pin To Net: NetName=+3V3 Pin=U300-G1
+Added Pin To Net: NetName=+3V3 Pin=U300-H1
+Added Pin To Net: NetName=+3V3 Pin=U300-H9
+Added Pin To Net: NetName=+3V3 Pin=U300-J1
+Added Pin To Net: NetName=+3V3 Pin=U300-J2
+Added Pin To Net: NetName=+3V3 Pin=U401-2
+Added Pin To Net: NetName=+3V3 Pin=U401-4
+Added Pin To Net: NetName=+3V3 Pin=U401-13
+Added Pin To Net: NetName=+3V3 Pin=U500-5
+Added Pin To Net: NetName=+3V3 Pin=U502-10
+Added Pin To Net: NetName=+3V3 Pin=U900-3
+Added Pin To Net: NetName=+3V3 Pin=U900-7
+Added Pin To Net: NetName=+3V3 Pin=U900-8
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5V_BAT Pin=D501-1
+Added Net: Name=+5V_BAT
+Added Pin To Net: NetName=+5V_USB Pin=D500-1
+Added Net: Name=+5V_USB
+Added Pin To Net: NetName=+5V Pin=C505-1
+Added Pin To Net: NetName=+5V Pin=D500-2
+Added Pin To Net: NetName=+5V Pin=D501-2
+Added Pin To Net: NetName=+5V Pin=D1000-4
+Added Pin To Net: NetName=+5V Pin=J609-1
+Added Pin To Net: NetName=+5V Pin=J610-1
+Added Pin To Net: NetName=+5V Pin=J700_HI_CURR_1-1
+Added Pin To Net: NetName=+5V Pin=J700_HI_CURR_2-1
+Added Pin To Net: NetName=+5V Pin=LS1000-1
+Added Pin To Net: NetName=+5V Pin=R1001-1
+Added Pin To Net: NetName=+5V Pin=R1005-1
+Added Pin To Net: NetName=+5V Pin=TP501-1
+Added Pin To Net: NetName=+5V Pin=U500-1
+Added Pin To Net: NetName=+5V Pin=U500-3
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND Pin=C200-2
+Added Pin To Net: NetName=GND Pin=C208-2
+Added Pin To Net: NetName=GND Pin=C209-2
+Added Pin To Net: NetName=GND Pin=C210-2
+Added Pin To Net: NetName=GND Pin=C211-2
+Added Pin To Net: NetName=GND Pin=C212-2
+Added Pin To Net: NetName=GND Pin=C213-2
+Added Pin To Net: NetName=GND Pin=C300-2
+Added Pin To Net: NetName=GND Pin=C301-2
+Added Pin To Net: NetName=GND Pin=C400-2
+Added Pin To Net: NetName=GND Pin=C401-2
+Added Pin To Net: NetName=GND Pin=C402-2
+Added Pin To Net: NetName=GND Pin=C403-2
+Added Pin To Net: NetName=GND Pin=C404-2
+Added Pin To Net: NetName=GND Pin=C505-2
+Added Pin To Net: NetName=GND Pin=C506-2
+Added Pin To Net: NetName=GND Pin=C800-2
+Added Pin To Net: NetName=GND Pin=C900-2
+Added Pin To Net: NetName=GND Pin=D1000-2
+Added Pin To Net: NetName=GND Pin=J200-1
+Added Pin To Net: NetName=GND Pin=J200-12
+Added Pin To Net: NetName=GND Pin=J300-2
+Added Pin To Net: NetName=GND Pin=J609-4
+Added Pin To Net: NetName=GND Pin=J610-4
+Added Pin To Net: NetName=GND Pin=J800-P6
+Added Pin To Net: NetName=GND Pin=J800-SH1
+Added Pin To Net: NetName=GND Pin=J800-SH2
+Added Pin To Net: NetName=GND Pin=J800-SH3
+Added Pin To Net: NetName=GND Pin=J800-SH4
+Added Pin To Net: NetName=GND Pin=R202-2
+Added Pin To Net: NetName=GND Pin=R205-2
+Added Pin To Net: NetName=GND Pin=R1004-1
+Added Pin To Net: NetName=GND Pin=SW200-1
+Added Pin To Net: NetName=GND Pin=SW201-1
+Added Pin To Net: NetName=GND Pin=TP500-1
+Added Pin To Net: NetName=GND Pin=U200-4
+Added Pin To Net: NetName=GND Pin=U201-19
+Added Pin To Net: NetName=GND Pin=U201-GND
+Added Pin To Net: NetName=GND Pin=U300-A1
+Added Pin To Net: NetName=GND Pin=U300-A3
+Added Pin To Net: NetName=GND Pin=U300-A5
+Added Pin To Net: NetName=GND Pin=U300-A7
+Added Pin To Net: NetName=GND Pin=U300-A8
+Added Pin To Net: NetName=GND Pin=U300-A9
+Added Pin To Net: NetName=GND Pin=U300-B9
+Added Pin To Net: NetName=GND Pin=U300-C7
+Added Pin To Net: NetName=GND Pin=U300-C9
+Added Pin To Net: NetName=GND Pin=U300-D6
+Added Pin To Net: NetName=GND Pin=U300-D9
+Added Pin To Net: NetName=GND Pin=U300-E7
+Added Pin To Net: NetName=GND Pin=U300-F7
+Added Pin To Net: NetName=GND Pin=U300-G3
+Added Pin To Net: NetName=GND Pin=U300-G6
+Added Pin To Net: NetName=GND Pin=U300-G7
+Added Pin To Net: NetName=GND Pin=U300-J3
+Added Pin To Net: NetName=GND Pin=U300-J9
+Added Pin To Net: NetName=GND Pin=U401-9
+Added Pin To Net: NetName=GND Pin=U401-11
+Added Pin To Net: NetName=GND Pin=U500-2
+Added Pin To Net: NetName=GND Pin=U502-4
+Added Pin To Net: NetName=GND Pin=U502-5
+Added Pin To Net: NetName=GND Pin=U502-6
+Added Pin To Net: NetName=GND Pin=U502-11
+Added Pin To Net: NetName=GND Pin=U900-4
+Added Pin To Net: NetName=GND Pin=X200-2
+Added Pin To Net: NetName=GND Pin=X200-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC201_2 Pin=C201-2
+Added Pin To Net: NetName=NetC201_2 Pin=C202-2
+Added Pin To Net: NetName=NetC201_2 Pin=C203-2
+Added Pin To Net: NetName=NetC201_2 Pin=C204-2
+Added Pin To Net: NetName=NetC201_2 Pin=C205-2
+Added Pin To Net: NetName=NetC201_2 Pin=C206-2
+Added Pin To Net: NetName=NetC201_2 Pin=C207-2
+Added Net: Name=NetC201_2
+Added Pin To Net: NetName=NetC208_1 Pin=C208-1
+Added Pin To Net: NetName=NetC208_1 Pin=C209-1
+Added Pin To Net: NetName=NetC208_1 Pin=C211-1
+Added Pin To Net: NetName=NetC208_1 Pin=U201-23
+Added Pin To Net: NetName=NetC208_1 Pin=U201-45
+Added Pin To Net: NetName=NetC208_1 Pin=U201-50
+Added Net: Name=NetC208_1
+Added Pin To Net: NetName=NetC212_1 Pin=C212-1
+Added Pin To Net: NetName=NetC212_1 Pin=R206-2
+Added Pin To Net: NetName=NetC212_1 Pin=X200-3
+Added Net: Name=NetC212_1
+Added Pin To Net: NetName=NetC300_1 Pin=C300-1
+Added Pin To Net: NetName=NetC300_1 Pin=FB300-2
+Added Pin To Net: NetName=NetC300_1 Pin=R300-2
+Added Net: Name=NetC300_1
+Added Pin To Net: NetName=NetC404_1 Pin=C404-1
+Added Pin To Net: NetName=NetC404_1 Pin=U401-10
+Added Net: Name=NetC404_1
+Added Net: Name=NetD600_2
+Added Pin To Net: NetName=NetD1000_1 Pin=D1000-1
+Added Net: Name=NetD1000_1
+Added Pin To Net: NetName=NetD1000_3 Pin=D1000-3
+Added Pin To Net: NetName=NetD1000_3 Pin=R1002-2
+Added Net: Name=NetD1000_3
+Added Pin To Net: NetName=NetF200_1 Pin=J200-2
+Added Pin To Net: NetName=NetF200_1 Pin=J200-11
+Added Net: Name=NetF200_1
+Added Pin To Net: NetName=NetFB300_1 Pin=FB300-1
+Added Pin To Net: NetName=NetFB300_1 Pin=J300-1
+Added Pin To Net: NetName=NetFB300_1 Pin=U300-A4
+Added Net: Name=NetFB300_1
+Added Pin To Net: NetName=NetJ200_3 Pin=J200-3
+Added Pin To Net: NetName=NetJ200_3 Pin=R202-1
+Added Net: Name=NetJ200_3
+Added Pin To Net: NetName=NetJ200_4 Pin=J200-4
+Added Net: Name=NetJ200_4
+Added Pin To Net: NetName=NetJ200_5 Pin=J200-5
+Added Pin To Net: NetName=NetJ200_5 Pin=J200-8
+Added Pin To Net: NetName=NetJ200_5 Pin=R201-2
+Added Net: Name=NetJ200_5
+Added Pin To Net: NetName=NetJ200_6 Pin=J200-6
+Added Pin To Net: NetName=NetJ200_6 Pin=J200-7
+Added Pin To Net: NetName=NetJ200_6 Pin=R203-2
+Added Net: Name=NetJ200_6
+Added Pin To Net: NetName=NetJ200_9 Pin=J200-9
+Added Pin To Net: NetName=NetJ200_9 Pin=R205-1
+Added Net: Name=NetJ200_9
+Added Pin To Net: NetName=NetJ200_10 Pin=J200-10
+Added Net: Name=NetJ200_10
+Added Pin To Net: NetName=NetJ200_S1 Pin=J200-S1
+Added Net: Name=NetJ200_S1
+Added Pin To Net: NetName=NetJ200_S2 Pin=J200-S2
+Added Net: Name=NetJ200_S2
+Added Pin To Net: NetName=NetJ200_S3 Pin=J200-S3
+Added Net: Name=NetJ200_S3
+Added Pin To Net: NetName=NetJ200_S4 Pin=J200-S4
+Added Net: Name=NetJ200_S4
+Added Pin To Net: NetName=NetJ200_S5 Pin=J200-S5
+Added Net: Name=NetJ200_S5
+Added Pin To Net: NetName=NetJ200_S6 Pin=J200-S6
+Added Net: Name=NetJ200_S6
+Added Pin To Net: NetName=NetJ500_1 Pin=U502-1
+Added Pin To Net: NetName=NetJ500_1 Pin=U502-2
+Added Pin To Net: NetName=NetJ500_1 Pin=U502-3
+Added Pin To Net: NetName=NetJ500_1 Pin=U502-12
+Added Net: Name=NetJ500_1
+Added Pin To Net: NetName=NetJ600_1 Pin=U201-2
+Added Net: Name=NetJ600_1
+Added Net: Name=NetJ600_2
+Added Pin To Net: NetName=NetJ601_1 Pin=U201-3
+Added Net: Name=NetJ601_1
+Added Pin To Net: NetName=NetJ602_1 Pin=U201-4
+Added Net: Name=NetJ602_1
+Added Pin To Net: NetName=NetJ603_1 Pin=U201-5
+Added Net: Name=NetJ603_1
+Added Pin To Net: NetName=NetJ604_1 Pin=U201-6
+Added Net: Name=NetJ604_1
+Added Pin To Net: NetName=NetJ605_2 Pin=U201-31
+Added Net: Name=NetJ605_2
+Added Pin To Net: NetName=NetJ606_1 Pin=U201-7
+Added Net: Name=NetJ606_1
+Added Pin To Net: NetName=NetJ607_1 Pin=U201-8
+Added Net: Name=NetJ607_1
+Added Pin To Net: NetName=NetJ608_1 Pin=U201-9
+Added Net: Name=NetJ608_1
+Added Pin To Net: NetName=NetJ609_2 Pin=J609-2
+Added Pin To Net: NetName=NetJ609_2 Pin=U201-16
+Added Net: Name=NetJ609_2
+Added Pin To Net: NetName=NetJ609_3 Pin=J609-3
+Added Pin To Net: NetName=NetJ609_3 Pin=U201-15
+Added Net: Name=NetJ609_3
+Added Pin To Net: NetName=NetJ609_S1 Pin=J609-S1
+Added Net: Name=NetJ609_S1
+Added Pin To Net: NetName=NetJ609_S2 Pin=J609-S2
+Added Net: Name=NetJ609_S2
+Added Pin To Net: NetName=NetJ610_S1 Pin=J610-S1
+Added Net: Name=NetJ610_S1
+Added Pin To Net: NetName=NetJ610_S2 Pin=J610-S2
+Added Net: Name=NetJ610_S2
+Added Pin To Net: NetName=NetJ700_HI_CURR_1_2 Pin=J700_HI_CURR_1-2
+Added Net: Name=NetJ700_HI_CURR_1_2
+Added Pin To Net: NetName=NetJ700_HI_CURR_1_S1 Pin=J700_HI_CURR_1-S1
+Added Net: Name=NetJ700_HI_CURR_1_S1
+Added Pin To Net: NetName=NetJ700_HI_CURR_1_S2 Pin=J700_HI_CURR_1-S2
+Added Net: Name=NetJ700_HI_CURR_1_S2
+Added Pin To Net: NetName=NetJ700_HI_CURR_2_2 Pin=J700_HI_CURR_2-2
+Added Net: Name=NetJ700_HI_CURR_2_2
+Added Pin To Net: NetName=NetJ700_HI_CURR_2_S1 Pin=J700_HI_CURR_2-S1
+Added Net: Name=NetJ700_HI_CURR_2_S1
+Added Pin To Net: NetName=NetJ700_HI_CURR_2_S2 Pin=J700_HI_CURR_2-S2
+Added Net: Name=NetJ700_HI_CURR_2_S2
+Added Pin To Net: NetName=NetJ800_P1 Pin=J800-P1
+Added Pin To Net: NetName=NetJ800_P1 Pin=U201-38
+Added Net: Name=NetJ800_P1
+Added Pin To Net: NetName=NetJ800_P2 Pin=J800-P2
+Added Pin To Net: NetName=NetJ800_P2 Pin=U201-39
+Added Net: Name=NetJ800_P2
+Added Pin To Net: NetName=NetJ800_P3 Pin=J800-P3
+Added Pin To Net: NetName=NetJ800_P3 Pin=U201-35
+Added Net: Name=NetJ800_P3
+Added Pin To Net: NetName=NetJ800_P5 Pin=J800-P5
+Added Pin To Net: NetName=NetJ800_P5 Pin=U201-34
+Added Net: Name=NetJ800_P5
+Added Pin To Net: NetName=NetJ800_P7 Pin=J800-P7
+Added Pin To Net: NetName=NetJ800_P7 Pin=U201-36
+Added Net: Name=NetJ800_P7
+Added Pin To Net: NetName=NetJ800_P8 Pin=J800-P8
+Added Pin To Net: NetName=NetJ800_P8 Pin=U201-37
+Added Net: Name=NetJ800_P8
+Added Pin To Net: NetName=NetJ800_P9 Pin=J800-P9
+Added Pin To Net: NetName=NetJ800_P9 Pin=R800-2
+Added Net: Name=NetJ800_P9
+Added Net: Name=NetL500_1
+Added Pin To Net: NetName=NetLS1000_2 Pin=LS1000-2
+Added Pin To Net: NetName=NetLS1000_2 Pin=R1005-2
+Added Net: Name=NetLS1000_2
+Added Pin To Net: NetName=NetM100_1 Pin=M100-1
+Added Net: Name=NetM100_1
+Added Pin To Net: NetName=NetM101_1 Pin=M101-1
+Added Net: Name=NetM101_1
+Added Pin To Net: NetName=NetM102_1 Pin=M102-1
+Added Net: Name=NetM102_1
+Added Pin To Net: NetName=NetM103_1 Pin=M103-1
+Added Net: Name=NetM103_1
+Added Net: Name=NetQ700_HI_CURR_1_1
+Added Net: Name=NetQ700_HI_CURR_2_1
+Added Pin To Net: NetName=NetQ1000_2 Pin=R1000-1
+Added Pin To Net: NetName=NetQ1000_2 Pin=U201-32
+Added Net: Name=NetQ1000_2
+Added Pin To Net: NetName=NetQ1000_3 Pin=R1001-2
+Added Pin To Net: NetName=NetQ1000_3 Pin=R1002-1
+Added Net: Name=NetQ1000_3
+Added Pin To Net: NetName=NetQ1001_1 Pin=R1003-2
+Added Pin To Net: NetName=NetQ1001_1 Pin=R1004-2
+Added Net: Name=NetQ1001_1
+Added Pin To Net: NetName=NetR200_1 Pin=R200-1
+Added Pin To Net: NetName=NetR200_1 Pin=SW200-2
+Added Net: Name=NetR200_1
+Added Pin To Net: NetName=NetR204_2 Pin=R204-2
+Added Pin To Net: NetName=NetR204_2 Pin=SW201-2
+Added Pin To Net: NetName=NetR204_2 Pin=U201-26
+Added Net: Name=NetR204_2
+Added Pin To Net: NetName=NetR700_HI_CURR_1_1 Pin=U201-40
+Added Net: Name=NetR700_HI_CURR_1_1
+Added Pin To Net: NetName=NetR700_HI_CURR_2_1 Pin=U201-41
+Added Net: Name=NetR700_HI_CURR_2_1
+Added Pin To Net: NetName=NetR900_1 Pin=R900-1
+Added Pin To Net: NetName=NetR900_1 Pin=U201-28
+Added Pin To Net: NetName=NetR900_1 Pin=U900-1
+Added Net: Name=NetR900_1
+Added Pin To Net: NetName=NetR1003_1 Pin=R1003-1
+Added Pin To Net: NetName=NetR1003_1 Pin=U201-14
+Added Net: Name=NetR1003_1
+Added Pin To Net: NetName=NetTP200_1 Pin=TP200-1
+Added Pin To Net: NetName=NetTP200_1 Pin=U201-24
+Added Net: Name=NetTP200_1
+Added Pin To Net: NetName=NetTP201_1 Pin=TP201-1
+Added Pin To Net: NetName=NetTP201_1 Pin=U201-25
+Added Net: Name=NetTP201_1
+Added Pin To Net: NetName=NetTP300_1 Pin=TP300-1
+Added Pin To Net: NetName=NetTP300_1 Pin=U300-J5
+Added Net: Name=NetTP300_1
+Added Pin To Net: NetName=NetTP301_1 Pin=TP301-1
+Added Pin To Net: NetName=NetTP301_1 Pin=U300-J4
+Added Net: Name=NetTP301_1
+Added Pin To Net: NetName=NetTP302_1 Pin=TP302-1
+Added Pin To Net: NetName=NetTP302_1 Pin=U300-C4
+Added Net: Name=NetTP302_1
+Added Pin To Net: NetName=NetU201_11 Pin=U201-11
+Added Net: Name=NetU201_11
+Added Pin To Net: NetName=NetU201_12 Pin=U201-12
+Added Net: Name=NetU201_12
+Added Pin To Net: NetName=NetU201_13 Pin=U201-13
+Added Pin To Net: NetName=NetU201_13 Pin=U401-15
+Added Net: Name=NetU201_13
+Added Pin To Net: NetName=NetU201_27 Pin=U201-27
+Added Pin To Net: NetName=NetU201_27 Pin=U900-2
+Added Net: Name=NetU201_27
+Added Pin To Net: NetName=NetU201_29 Pin=U201-29
+Added Pin To Net: NetName=NetU201_29 Pin=U900-6
+Added Net: Name=NetU201_29
+Added Pin To Net: NetName=NetU201_30 Pin=U201-30
+Added Pin To Net: NetName=NetU201_30 Pin=U900-5
+Added Net: Name=NetU201_30
+Added Pin To Net: NetName=NetU300_A6 Pin=U300-A6
+Added Net: Name=NetU300_A6
+Added Pin To Net: NetName=NetU300_C1 Pin=U300-C1
+Added Net: Name=NetU300_C1
+Added Pin To Net: NetName=NetU300_C3 Pin=U300-C3
+Added Net: Name=NetU300_C3
+Added Pin To Net: NetName=NetU300_C5 Pin=U300-C5
+Added Net: Name=NetU300_C5
+Added Pin To Net: NetName=NetU300_C6 Pin=U300-C6
+Added Net: Name=NetU300_C6
+Added Pin To Net: NetName=NetU300_D1 Pin=U300-D1
+Added Net: Name=NetU300_D1
+Added Pin To Net: NetName=NetU300_D3 Pin=U300-D3
+Added Net: Name=NetU300_D3
+Added Pin To Net: NetName=NetU300_D4 Pin=U300-D4
+Added Net: Name=NetU300_D4
+Added Pin To Net: NetName=NetU300_E1 Pin=U300-E1
+Added Net: Name=NetU300_E1
+Added Pin To Net: NetName=NetU300_E3 Pin=U300-E3
+Added Net: Name=NetU300_E3
+Added Pin To Net: NetName=NetU300_E9 Pin=U300-E9
+Added Net: Name=NetU300_E9
+Added Pin To Net: NetName=NetU300_F1 Pin=U300-F1
+Added Net: Name=NetU300_F1
+Added Pin To Net: NetName=NetU300_F3 Pin=U300-F3
+Added Net: Name=NetU300_F3
+Added Pin To Net: NetName=NetU300_F4 Pin=U300-F4
+Added Net: Name=NetU300_F4
+Added Pin To Net: NetName=NetU300_F6 Pin=U300-F6
+Added Net: Name=NetU300_F6
+Added Pin To Net: NetName=NetU300_F9 Pin=U300-F9
+Added Net: Name=NetU300_F9
+Added Pin To Net: NetName=NetU300_G4 Pin=U300-G4
+Added Net: Name=NetU300_G4
+Added Pin To Net: NetName=NetU300_G5 Pin=U300-G5
+Added Net: Name=NetU300_G5
+Added Pin To Net: NetName=NetU300_G9 Pin=U300-G9
+Added Net: Name=NetU300_G9
+Added Pin To Net: NetName=NetU300_J6 Pin=U300-J6
+Added Net: Name=NetU300_J6
+Added Pin To Net: NetName=NetU300_J7 Pin=U300-J7
+Added Net: Name=NetU300_J7
+Added Pin To Net: NetName=NetU300_J8 Pin=U300-J8
+Added Net: Name=NetU300_J8
+Added Net: Name=NetU400_1
+Added Net: Name=NetU400_5
+Added Pin To Net: NetName=NetU401_3 Pin=U401-3
+Added Net: Name=NetU401_3
+Added Pin To Net: NetName=NetU401_5 Pin=U401-5
+Added Net: Name=NetU401_5
+Added Pin To Net: NetName=NetU401_6 Pin=U401-6
+Added Net: Name=NetU401_6
+Added Pin To Net: NetName=NetU401_7 Pin=U401-7
+Added Net: Name=NetU401_7
+Added Pin To Net: NetName=NetU401_8 Pin=U401-8
+Added Net: Name=NetU401_8
+Added Pin To Net: NetName=NetU401_12 Pin=U401-12
+Added Net: Name=NetU401_12
+Added Pin To Net: NetName=NetU401_14 Pin=U401-14
+Added Net: Name=NetU401_14
+Added Pin To Net: NetName=NetU500_4 Pin=U500-4
+Added Net: Name=NetU500_4
+Added Net: Name=NetU501_ADJ
+Added Net: Name=NetU501_EAO
+Added Net: Name=NetU501_EN
+Added Net: Name=NetU501_PGD
+Added Net: Name=NetU501_SYNCO
+Added Net: Name=NetU501_TRK
+Added Pin To Net: NetName=NetU502_7 Pin=U502-7
+Added Net: Name=NetU502_7
+Added Pin To Net: NetName=NetU502_13 Pin=U502-13
+Added Net: Name=NetU502_13
+Added Pin To Net: NetName=QSPI_SCLK Pin=U200-6
+Added Pin To Net: NetName=QSPI_SCLK Pin=U201-52
+Added Net: Name=QSPI_SCLK
+Added Pin To Net: NetName=QSPI_SD0 Pin=U200-5
+Added Pin To Net: NetName=QSPI_SD0 Pin=U201-53
+Added Net: Name=QSPI_SD0
+Added Pin To Net: NetName=QSPI_SD1 Pin=U200-2
+Added Pin To Net: NetName=QSPI_SD1 Pin=U201-55
+Added Net: Name=QSPI_SD1
+Added Pin To Net: NetName=QSPI_SD2 Pin=U200-3
+Added Pin To Net: NetName=QSPI_SD2 Pin=U201-54
+Added Net: Name=QSPI_SD2
+Added Pin To Net: NetName=QSPI_SD3 Pin=U200-7
+Added Pin To Net: NetName=QSPI_SD3 Pin=U201-51
+Added Net: Name=QSPI_SD3
+Added Pin To Net: NetName=QSPI_SS Pin=R200-2
+Added Pin To Net: NetName=QSPI_SS Pin=U200-1
+Added Pin To Net: NetName=QSPI_SS Pin=U201-56
+Added Net: Name=QSPI_SS
+Added Pin To Net: NetName=SCL Pin=J610-2
+Added Pin To Net: NetName=SCL Pin=R100-2
+Added Pin To Net: NetName=SCL Pin=U201-18
+Added Pin To Net: NetName=SCL Pin=U300-B1
+Added Pin To Net: NetName=SCL Pin=U401-1
+Added Pin To Net: NetName=SCL Pin=U502-9
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J610-3
+Added Pin To Net: NetName=SDA Pin=R101-2
+Added Pin To Net: NetName=SDA Pin=U201-17
+Added Pin To Net: NetName=SDA Pin=U300-A2
+Added Pin To Net: NetName=SDA Pin=U401-16
+Added Pin To Net: NetName=SDA Pin=U502-8
+Added Net: Name=SDA
+Added Pin To Net: NetName=USB_DM Pin=R201-1
+Added Pin To Net: NetName=USB_DM Pin=U201-46
+Added Net: Name=USB_DM
+Added Pin To Net: NetName=USB_DP Pin=R203-1
+Added Pin To Net: NetName=USB_DP Pin=U201-47
+Added Net: Name=USB_DP
+Added Pin To Net: NetName=Vbat Pin=U502-14
+Added Pin To Net: NetName=Vbat Pin=U502-15
+Added Pin To Net: NetName=Vbat Pin=U502-16
+Added Net: Name=Vbat
+Added Pin To Net: NetName=XIN Pin=C213-1
+Added Pin To Net: NetName=XIN Pin=U201-20
+Added Pin To Net: NetName=XIN Pin=X200-1
+Added Net: Name=XIN
+Added Pin To Net: NetName=XOUT Pin=R206-1
+Added Pin To Net: NetName=XOUT Pin=U201-21
+Added Net: Name=XOUT
+Added Class: Name=Connectors
+Added Class: Name=Flash
+Added Class: Name=GNSS
+Added Class: Name=HI_CURR_1
+Added Class: Name=HI_CURR_2
+Added Class: Name=IMU_MAG
+Added Class: Name=LED & Buzzer
+Added Class: Name=Power
+Added Class: Name=RP2040
+Added Class: Name=SD_Card
+Added Class: Name=Hi_Current
+Added Member To Class: ClassName=Main Member=Component M100 Mounting Screw
+Added Member To Class: ClassName=Main Member=Component M101 Mounting Screw
+Added Member To Class: ClassName=Main Member=Component M102 Mounting Screw
+Added Member To Class: ClassName=Main Member=Component M103 Mounting Screw
+Added Member To Class: ClassName=Main Member=Component R100 2k2
+Added Member To Class: ClassName=Main Member=Component R101 2k2
